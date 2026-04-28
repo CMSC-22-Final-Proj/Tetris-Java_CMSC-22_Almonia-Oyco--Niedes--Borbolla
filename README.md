@@ -1,0 +1,1 @@
+This project was originally developed on October 2024 - December 2024 as part of CMSC 22 - Object Oriented Programming. It was recently uploaded to GitHub for archival and portfolio purposes. Original development was a collaborative effort by Dale Louize Almonia, Stefan Niedes and Cedric Oyco.
